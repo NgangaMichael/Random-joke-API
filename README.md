@@ -1,2 +1,2 @@
 # Random-joke-API
-Api integration using fetch
+Used an API to fetch random jokes
